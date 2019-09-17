@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on RaimuErのぶろぐ</title>
+    <link>https://localhost/posts/</link>
+    <description>Recent content in Posts on RaimuErのぶろぐ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 17 Sep 2019 15:59:16 +0900</lastBuildDate>
+    
+	<atom:link href="https://localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Isucon</title>
+      <link>https://localhost/posts/isucon/</link>
+      <pubDate>Tue, 17 Sep 2019 15:59:16 +0900</pubDate>
+      
+      <guid>https://localhost/posts/isucon/</guid>
+      <description>foo</description>
+    </item>
+    
+  </channel>
+</rss>

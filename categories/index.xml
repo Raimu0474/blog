@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on RaimuErのぶろぐ</title>
-    <link>https://localhost/categories/</link>
+    <link>https://raimu0474.github.io/blog/categories/</link>
     <description>Recent content in Categories on RaimuErのぶろぐ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Tue, 17 Sep 2019 15:59:16 +0900</lastBuildDate>
     
-	<atom:link href="https://localhost/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://raimu0474.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>tech</title>
-      <link>https://localhost/categories/tech/</link>
+      <link>https://raimu0474.github.io/blog/categories/tech/</link>
       <pubDate>Tue, 17 Sep 2019 15:59:16 +0900</pubDate>
       
-      <guid>https://localhost/categories/tech/</guid>
+      <guid>https://raimu0474.github.io/blog/categories/tech/</guid>
       <description></description>
     </item>
     
